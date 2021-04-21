@@ -9,7 +9,7 @@ import { IState } from '../../store';
 
 const client = createClient({
   url: 'https://react.eogresources.com/graphql',
-});
+}); 
 
 const query = `
 query($latLong: WeatherQuery!) {
