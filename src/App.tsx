@@ -34,7 +34,6 @@ const App = () => (
         <CardHeader></CardHeader> */}
         <CardControlWrapper></CardControlWrapper>
         <ChartWrapper></ChartWrapper>
-        
       </Wrapper>
     </Provider>
   </MuiThemeProvider>
